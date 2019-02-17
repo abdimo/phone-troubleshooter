@@ -1,5 +1,5 @@
 # phone-troubleshooter
-A well designed phone troubleshooter. Uses NLP library for better diagnosis of problems.
+A well designed phone troubleshooter. Uses Compromise.js.
 
       
 !["example"](example.png)
